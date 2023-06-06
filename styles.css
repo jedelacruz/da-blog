@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #121212;
+    color: whitesmoke;
+}
+.home-container{
+    width: 100%;
+}
+header{
+    
+}
+header h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.container{
+    width: 70%;
+    margin: auto;
+}
+.title-date-box{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.title{
+    font-weight: bold;
+    font-size: 20px;
+}
+.date{
+    opacity: 0.8;
+    font-size: 14px;
+}
+.main-text{
+
+}
+.line-breaker{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+footer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
